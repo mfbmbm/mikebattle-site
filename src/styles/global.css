@@ -19,7 +19,7 @@ body {
   min-height: 100vh;
 }
 /* Only the homepage uses the screenplay font. */
-body.home { font-family: 'Courier Prime', 'Courier New', monospace; font-size: 16px; line-height: 1.7; }
+body.home { font-family: 'Courier Prime', 'Courier New', monospace; font-size: 17px; line-height: 1.7; }
 
 /* NAV */
 nav {
@@ -73,7 +73,7 @@ main { padding-top: 80px; min-height: 100vh; }
   margin-left: 22ch;
   text-align: left;
   font-weight: 700;
-  font-size: 16px;
+  font-size: 1em; /* same size as the dialogue */
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
@@ -87,7 +87,7 @@ main { padding-top: 80px; min-height: 100vh; }
   text-align: left;
   color: var(--mid);
   font-style: italic;
-  font-size: 15px;
+  font-size: 0.94em;
 }
 
 /* LINKS */
@@ -193,6 +193,7 @@ a.inline-link:hover, .prose a:hover { color: var(--mid); }
   .character { margin-left: 9ch; }
   .paren { margin-left: 6ch; }
   .scene-heading { font-size: 16px; }
+  body.home { font-size: 16px; }
   .page-title { font-size: 30px; }
   .prose h1 { font-size: 28px; }
   .prose h2, .section-title { font-size: 19px; }
