@@ -2,7 +2,7 @@
 book: "On Writing"
 author: Stephen King
 related:
-  text: "my podcast interview with Inside Out and Captain Marvel screenwriter Meg LeFauve"
+  text: "my podcast interview with screenwriter Meg LeFauve (Pixar’s Inside Out)"
   url: https://pod.link/1529608643/episode/QnV6enNwcm91dC05MTQ5NDU1
 ---
 
