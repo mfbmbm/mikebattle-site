@@ -6,16 +6,11 @@ related:
   url: https://www.redcarpetrookies.com/episodes/duncan-hayes
 ---
 
-## Quotes
-
 - "That was my first lesson in the business - who you know matters."
 - "Nothing in Hollywood is anything until it's something. And the way to show it's something is belief."
 - "Hollywood has always been a ruthless business."
 - "It's only blarney if you can't make it happen."
 - "We weren't in a creative medium, we were in a commercially creative medium."
-
-## Notes
-
 - Perception is everything. CAA agents "reached for the club" every day but never used it.
 - Pick a persona you can inhabit without strain.
 - Image as strategy: Armani suits, red script covers all over LA, hired Jaguars when they had no money.

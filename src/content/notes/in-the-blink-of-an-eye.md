@@ -6,16 +6,11 @@ related:
   url: https://www.redcarpetrookies.com/episodes/julianclarke
 ---
 
-## Quotes
-
 - "Suggestion is always more effective than exposition."
 - "Always try to do the most with the least."
 - "What they finally remember is not the editing, not the camerawork, not the performances, not even the story - it's how they felt."
 - "Editing… is not so much a putting together as it is a discovery of a path."
 - "You could sit in one room with a pile of dailies and another editor could sit in the next room with exactly the same footage and both of you would make different films out of the same material."
-
-## Notes
-
 - A cut works where a blink would: at the end of a thought.
 - Emotion first, then story, then rhythm.
 - Deciding where not to cut is most of the job.

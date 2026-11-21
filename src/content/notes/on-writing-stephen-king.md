@@ -6,8 +6,6 @@ related:
   url: https://www.redcarpetrookies.com/episodes/meglefauve
 ---
 
-## Quotes
-
 - "Write anything you want as long as you tell the truth."
 - "Do you need someone to make you a paper badge with the word writer on it before you can believe you are one? God, I hope not."
 - "Never tell us a thing if you can show us instead."
@@ -16,9 +14,6 @@ related:
 - "The hours we spend talking about writing is time we don't spend actually doing it."
 - "I'm convinced that fear is at the root of most bad writing."
 - "Don't wait for the muse."
-
-## Notes
-
 - Imitation comes first. His first stories were copied out of comic books.
 - Ideas arrive from nowhere. The job is to notice them, then dig them out carefully, like fossils.
 - Situation first. Put characters in a predicament; the ending can wait.
