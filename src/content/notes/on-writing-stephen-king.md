@@ -3,7 +3,7 @@ book: "On Writing"
 author: Stephen King
 related:
   text: "my podcast interview with Inside Out and Captain Marvel screenwriter Meg LeFauve"
-  url: https://podcasts.apple.com/gb/podcast/red-carpet-rookies/id1529608643
+  url: https://pod.link/1529608643/episode/QnV6enNwcm91dC05MTQ5NDU1
 ---
 
 - 'Write anything you want as long as you tell the truth.'

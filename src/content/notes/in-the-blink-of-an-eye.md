@@ -3,7 +3,7 @@ book: "In the Blink of an Eye"
 author: Walter Murch
 related:
   text: "my podcast interview with editor Julian Clarke (District 9, Handmaid’s Tale)"
-  url: https://podcasts.apple.com/gb/podcast/julian-clarke-editor-district-9-handmaids-tale-deadpool/id1529608643?i=1000536243888
+  url: https://pod.link/1529608643/episode/QnV6enNwcm91dC05MjMzMTg5
 ---
 
 - Editing… is not so much a 'putting together' as it is a 'discovery of a path'.

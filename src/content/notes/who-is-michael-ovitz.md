@@ -3,7 +3,7 @@ book: "Who Is Michael Ovitz?"
 author: Michael Ovitz
 related:
   text: "my podcast interview with agent, Duncan Hayes (Ricky Gervais, Sharon Horgan)"
-  url: https://podcasts.apple.com/gb/podcast/24-duncan-hayes-agent-ricky-gervais-stephen-merchant/id1529608643?i=1000556516430
+  url: https://pod.link/1529608643/episode/QnV6enNwcm91dC0xMDM0NjUxOQ
 ---
 
 - 'Nothing in Hollywood is anything until it's something, and the only way to make it something is with a profound display of belief'
