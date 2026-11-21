@@ -3,7 +3,7 @@ book: "In the Blink of an Eye"
 author: Walter Murch
 related:
   text: "my podcast interview with editor Julian Clarke"
-  url: https://www.redcarpetrookies.com/episodes/julianclarke
+  url: https://podcasts.apple.com/gb/podcast/julian-clarke-editor-district-9-handmaids-tale-deadpool/id1529608643?i=1000536243888
 ---
 
 - 'Editing… is not so much a putting together as it is a discovery of a path.'
@@ -25,8 +25,7 @@ related:
 - Someone who blinks in the wrong places makes a conversation feel off. Same with cuts.
 - Cuts mimic 'the acrobatic nature of thought itself'. Close-ups show a character's thoughts at the closest level.
 - Every film has its own rhythmic signature.
-- Coppola and Lucas preferred modern electronic editing systems as it offered more creative options.
-- Digital editing made things more flexible but was also problematic as it allowed later decision making.
-- The proliferation of editing technology does mean 'anyone' can make a great film. 'All of us today are able to walk into an art store and buy inexpensive pigments and supplies that the Renaissance painters would have paid fortunes for. And yet, do any of us paint on their level today?'
+- Coppola and Lucas preferred modern electronic editing systems as it offered more creative options (but digital editing was also problematic as it allowed later decision making)
+- The proliferation of editing technology doesn't mean 'anyone' can make a great film. 'All of us today are able to walk into an art store and buy inexpensive pigments and supplies that the Renaissance painters would have paid fortunes for. And yet, do any of us paint on their level today?'
 - Filmmaking is almost impossible for one person to control. Coppola: 'The director is the ringmaster of a circus that is inventing itself.'
-- 'At home, you are king, and the television is your jester. If you are not amused, you take out the remote control and chop off his head! The framework of home viewing is familiarity: What is right is what fits with the routine, which implies a mind-set that sees only what it wants - or is prepared - to see.'
+- Cinema is different to TV - 'At home, you are king, and the television is your jester. If you are not amused, you take out the remote control and chop off his head!'

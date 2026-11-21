@@ -3,7 +3,7 @@ book: "Who Is Michael Ovitz?"
 author: Michael Ovitz
 related:
   text: "my podcast interview with Ricky Gervais's agent, Duncan Hayes"
-  url: https://www.redcarpetrookies.com/episodes/duncan-hayes
+  url: https://podcasts.apple.com/gb/podcast/24-duncan-hayes-agent-ricky-gervais-stephen-merchant/id1529608643?i=1000556516430
 ---
 
 - 'That was my first lesson in the business - who you know matters.'
