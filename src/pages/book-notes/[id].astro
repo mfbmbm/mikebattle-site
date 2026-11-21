@@ -14,7 +14,7 @@ const d = note.data;
 <Base title={`${d.book} by ${d.author} - Mike Battle`} description={`Quotes and notes from ${d.book} by ${d.author}.`}>
   <div class="screenplay">
     <article class="prose">
-      <h1>{d.book} by {d.author}</h1>
+      <h1>{d.book} – {d.author}</h1>
       <Content />
       <p class="foot">
         {d.related && (<Fragment> Related: <a href={d.related.url} target="_blank" rel="noopener">{d.related.text}</a>.</Fragment>)}
