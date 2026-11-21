@@ -6,32 +6,26 @@ related:
   url: https://pod.link/1529608643/episode/QnV6enNwcm91dC05MTQ5NDU1
 ---
 
-- 'Write anything you want as long as you tell the truth.'
-- 'Do you need someone to make you a paper badge with the word writer on it before you can believe you are one? God, I hope not.'
-- 'Never tell us a thing if you can show us instead.'
-- 'To write is human, to edit is divine.'
-- 'When you write a story, you're telling yourself the story. When you rewrite, your main job is taking out all the things that are not the story.'
-- 'The hours we spend talking about writing is time we don't spend actually doing it.'
-- 'I'm convinced that fear is at the root of most bad writing.'
-- 'Don't wait for the muse.'
-- Imitation comes first. His first stories were copied out of comic books.
-- Ideas arrive from nowhere. The job is to notice them, then dig them out carefully, like fossils.
-- Situation first. Put characters in a predicament; the ending can wait.
-- Write what you know, and tell the truth.
-- Rejection slips on a nail. Then on a spike. Keep writing.
-- Someone will always call your genre a waste of talent.
-- Write with the door closed, rewrite with the door open. Six weeks in a drawer in between.
-- Second draft = first draft minus 10%.
-- His mother wanted a teaching qualification to fall back on. Years of dead-end jobs before the break.
-- Writing is lonely. Tabby pulled *Carrie* out of the bin.
-- 1,000 words a day, six days a week. Make sure the muse knows where you'll be.
-- Read a lot. Bad books show you that you can do it.
-- Every character is you. If they'd swear, let them swear.
-- Story first, theme second. Find the patterns after the draft, then rewrite towards them.
-- Symbolism should adorn, not fake depth.
-- Agents are looking for the next hot writer. Be your own advocate.
-- Use the first word that comes to mind. Don't dress up short words.
-- Know grammar's rules before breaking them. Fragments are fine.
-- Active over passive: 'The meeting's at seven.' The adverb is not your friend.
-- The paragraph, not the sentence, is the basic unit. Short paragraphs read easy. Same for scripts.
-- Also read: *The Elements of Style*, Strunk and White.
+- 'Most books about writing are filled with bullshit'
+- Writing is telepathy - 'you can put ideas and thoughts in people's heads' (even across time).
+- 'Books are a uniquely portable magic'
+- 'Sometimes you have to go on when you don't feel like it, and sometimes you're doing good work when it feels like all you're managing is to shovel shit from a sitting position'
+- 'Plot is, I think, the good writer's last resort and the dullard's first choice. The story which results from it is apt to feel artificial and labored. I want to put a group of characters (perhaps a pair; perhaps even just one) in some sort of predicament and then watch them try to work themselves free'
+- 'Sir Arthur Quiller-Couch once said, "Murder your darlings," and he was right'
+- 'By the time I was fourteen… the nail in my wall would no longer support the weight of the rejection slips impaled upon it'
+- 'When you've had a little success, magazines are a lot less apt to use that phrase, "Not for us"'
+- 'If you want to be a writer, you must do two things above all others: read a lot and write a lot. There's no way around these two things that I'm aware of, no shortcut'
+- 'I'm convinced that fear is at the root of most bad writing'
+- 'Write anything you want as long as you tell the truth'
+- Find your niche - 'Don't feel guilty about what you like to write'.
+- 'Imitation preceded creation'
+- 'Good story ideas seem to come quite literally from nowhere, sailing at you right out of the empty sky: two previously unrelated ideas come together and make something new under the sun. Your job isn't to find these ideas but to recognize them when they show up'
+- 'Stories are found things, like fossils in the ground… Sometimes the fossil you uncover is small; a seashell. Sometimes it's enormous, a Tyrannosaurus Rex with all those gigantic ribs and grinning teeth'
+- 'When you write a story, you're telling yourself the story. When you rewrite, your main job is taking out all the things that are not the story'
+- 'Every book - at least every one worth reading - is about something. Your job during or just after the first draft is to decide what something or somethings yours is about'
+- 'Good fiction always begins with story and progresses to theme; it almost never begins with theme and progresses to story'
+- 'I would argue that the paragraph, not the sentence, is the basic unit of writing'
+- 'The hours we spend talking about writing is time we don't spend actually doing it'
+- 'Writing is a lonely job. Having someone who believes in you makes a lot of difference. They don't have to make speeches. Just believing is usually enough'
+- 'Agents, publishers, and editors are all looking for the next hot writer who can sell a lot of books and make lots of money'
+- 'Writing is magic, as much the water of life as any other creative art. The water is free. So drink.'
