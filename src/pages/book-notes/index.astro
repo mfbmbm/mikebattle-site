@@ -1,0 +1,18 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+
+const notes = (await getCollection('notes')).sort((a, b) =>
+  a.data.book.localeCompare(b.data.book)
+);
+---
+<Base title="Book Notes - Mike Battle" description="Notes, quotes and lessons from books on film, TV and writing.">
+  <div class="screenplay">
+    <h1 class="page-title">Book Notes</h1>
+    <ul class="letter-list note-list">
+      {notes.map((note) => (
+        <li><a href={`/book-notes/${note.id}`}>{note.data.book}</a> <span class="by">– {note.data.author}</span></li>
+      ))}
+    </ul>
+  </div>
+</Base>

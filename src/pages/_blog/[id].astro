@@ -1,0 +1,24 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Signup from '../../components/Signup.astro';
+
+export async function getStaticPaths() {
+  const letters = await getCollection('blog');
+  return letters.map((letter) => ({ params: { id: letter.id }, props: { letter } }));
+}
+
+const { letter } = Astro.props;
+const { Content } = await render(letter);
+---
+<Base title={`${letter.data.title} - Mike Battle`} description={letter.data.description}>
+  <div class="screenplay">
+    <article class="prose">
+      <h1>{letter.data.title}</h1>
+      <div class="letter-date">{letter.data.date.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' })}</div>
+      <Content />
+    </article>
+    <Signup />
+    <p style="margin-top:32px"><a class="inline-link" href="/blog">← Blog</a></p>
+  </div>
+</Base>

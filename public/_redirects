@@ -1,0 +1,6 @@
+# Old Webflow addresses that no longer have a page. Keeps visitors and Google from hitting a dead end.
+/book-notes/save-the-cat   /book-notes   301
+/category/*                /book-notes   301
+/newsletter                /             301
+/about                     /             301
+/episodes                  https://pod.link/1529608643   301

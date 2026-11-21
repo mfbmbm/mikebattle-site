@@ -1,0 +1,17 @@
+---
+// EDIT THIS ONE LINE after you create your free Buttondown account.
+// It is just your public username, not a password or key.
+const BUTTONDOWN_USERNAME = 'YOUR-USERNAME';
+---
+<div class="signup">
+  <p>Want next year's letter in your inbox? Leave your email. One letter a year, nothing else.</p>
+  <form
+    action={`https://buttondown.com/api/emails/embed-subscribe/${BUTTONDOWN_USERNAME}`}
+    method="post"
+    target="popupwindow"
+    onsubmit={`window.open('https://buttondown.com/${BUTTONDOWN_USERNAME}', 'popupwindow')`}
+  >
+    <input type="email" name="email" placeholder="you@email.com" aria-label="Email address" required />
+    <button type="submit">Subscribe</button>
+  </form>
+</div>

@@ -1,0 +1,48 @@
+---
+import '../styles/global.css';
+const { title = 'Mike Battle - Screenwriter and Podcaster', description = "Hi, I'm Mike, a screenwriter, podcaster and creator based in London. Welcome to my home on the internet." } = Astro.props;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+const path = Astro.url.pathname;
+const is = (p) => (p === '/' ? path === '/' : path.startsWith(p));
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
+    <link rel="apple-touch-icon" href="/favicon-32.png" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <!-- Google Analytics (same property as the old Webflow site, so visitor history continues) -->
+    <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-8GNNZF1HL3"></script>
+    <script is:inline>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-8GNNZF1HL3');</script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Libre+Caslon+Display&family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet" />
+  </head>
+  <body class:list={[{ home: path === '/' }]}>
+    <nav>
+      <a href="/" class="logo">MB</a>
+      <ul>
+        <li><a href="/" class:list={[{ active: is('/') }]}>Home</a></li>
+        {/* Blog is hidden until the December letter. To bring it back: rename src/pages/_blog to src/pages/blog and uncomment this line. */}
+        {/* <li><a href="/blog" class:list={[{ active: is('/blog') }]}>Blog</a></li> */}
+        <li><a href="/book-notes" class:list={[{ active: is('/book-notes') }]}>Book Notes</a></li>
+        <li><a href="/contact" class:list={[{ active: is('/contact') }]}>Contact</a></li>
+        <li><a href="https://pod.link/1529608643" target="_blank" rel="noopener">Podcast</a></li>
+      </ul>
+    </nav>
+    <main>
+      <slot />
+    </main>
+  </body>
+</html>

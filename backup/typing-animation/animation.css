@@ -1,0 +1,37 @@
+/* TYPING ANIMATION: only hide things if JavaScript is running */
+.js [data-type] { opacity: 0; }
+.js [data-type].typing, .js [data-type].done { opacity: 1; }
+.cursor {
+  display: inline-block;
+  width: 10px;
+  height: 1.1em;
+  background: var(--ink);
+  vertical-align: text-bottom;
+  margin-left: 2px;
+  animation: blink 1s step-end infinite;
+}
+@keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+
+/* SKIP BUTTON (added by typewriter.js; fades in below the text while it types) */
+.skip {
+  display: block;
+  margin: 8px auto 0;
+  font: inherit;
+  font-size: 14px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 9px 24px;
+  border: 1px solid var(--ink);
+  border-radius: 999px;
+  background: var(--ink);
+  color: var(--bg);
+  cursor: pointer;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.7s ease, background 0.2s, color 0.2s;
+}
+.skip[hidden] { display: none; }
+.skip.show { opacity: 1; pointer-events: auto; }
+.skip:hover { background: var(--bg); color: var(--ink); }
+.skip:focus-visible { outline: 2px solid var(--ink); outline-offset: 3px; }
+
