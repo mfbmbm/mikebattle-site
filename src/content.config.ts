@@ -15,13 +15,8 @@ const blog = defineCollection({
 const notes = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/notes' }),
   schema: z.object({
-    book: z.string(), // short book title, shown on the Book Notes list
-    title: z.string(),
-    seoTitle: z.string().optional(), // the title Google shows, if different from the page heading
+    book: z.string(),
     author: z.string(),
-    category: z.string(),
-    description: z.string(),
-    amazon: z.string().url().optional(),
     related: z.object({ text: z.string(), url: z.string().url() }).optional(),
   }),
 });
