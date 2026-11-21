@@ -10,7 +10,7 @@ related:
 - Writing is telepathy - 'you can put ideas and thoughts in people's heads' (even across time).
 - 'Books are a uniquely portable magic'
 - 'Sometimes you have to go on when you don't feel like it, and sometimes you're doing good work when it feels like all you're managing is to shovel shit from a sitting position'
-- 'Plot is, I think, the good writer's last resort and the dullard's first choice. The story which results from it is apt to feel artificial and labored. I want to put a group of characters (perhaps a pair; perhaps even just one) in some sort of predicament and then watch them try to work themselves free'
+- 'Plot is, I think, the good writer's last resort and the dullard's first choice. The story which results from it is apt to feel artificial and labored. I want to put a group of characters... in some sort of predicament and then watch them try to work themselves free'
 - 'Sir Arthur Quiller-Couch once said, "Murder your darlings," and he was right'
 - 'By the time I was fourteen… the nail in my wall would no longer support the weight of the rejection slips impaled upon it'
 - 'When you've had a little success, magazines are a lot less apt to use that phrase, "Not for us"'
