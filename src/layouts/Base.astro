@@ -1,8 +1,9 @@
 ---
 import '../styles/global.css';
 const { title = 'Mike Battle - Screenwriter and Podcaster', description = "Hi, I'm Mike, a screenwriter, podcaster and creator based in London. Welcome to my home on the internet." } = Astro.props;
-const canonical = new URL(Astro.url.pathname, Astro.site);
-const path = Astro.url.pathname;
+const canonical = new URL(path, Astro.site).href.replace(/(.)\/$/, '$1');
+// Clean address without '.html' or 'index' (e.g. /book-notes/on-writing-stephen-king).
+const path = Astro.url.pathname.replace(/(index)?\.html$/, '').replace(/(.)\/$/, '$1') || '/';
 const is = (p) => (p === '/' ? path === '/' : path.startsWith(p));
 ---
 <!doctype html>
