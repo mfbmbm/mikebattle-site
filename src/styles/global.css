@@ -68,7 +68,7 @@ main { padding-top: 80px; min-height: 100vh; }
 }
 .action { margin-bottom: 20px; }
 .character {
-  margin-top: 32px;
+  margin-top: 24px; /* about one blank line, as in a script */
   text-align: center;
   font-weight: 700;
   font-size: 15px;
