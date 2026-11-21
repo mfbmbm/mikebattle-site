@@ -6,14 +6,14 @@ related:
   url: https://www.redcarpetrookies.com/episodes/meglefauve
 ---
 
-- "Write anything you want as long as you tell the truth."
-- "Do you need someone to make you a paper badge with the word writer on it before you can believe you are one? God, I hope not."
-- "Never tell us a thing if you can show us instead."
-- "To write is human, to edit is divine."
-- "When you write a story, you're telling yourself the story. When you rewrite, your main job is taking out all the things that are not the story."
-- "The hours we spend talking about writing is time we don't spend actually doing it."
-- "I'm convinced that fear is at the root of most bad writing."
-- "Don't wait for the muse."
+- 'Write anything you want as long as you tell the truth.'
+- 'Do you need someone to make you a paper badge with the word writer on it before you can believe you are one? God, I hope not.'
+- 'Never tell us a thing if you can show us instead.'
+- 'To write is human, to edit is divine.'
+- 'When you write a story, you're telling yourself the story. When you rewrite, your main job is taking out all the things that are not the story.'
+- 'The hours we spend talking about writing is time we don't spend actually doing it.'
+- 'I'm convinced that fear is at the root of most bad writing.'
+- 'Don't wait for the muse.'
 - Imitation comes first. His first stories were copied out of comic books.
 - Ideas arrive from nowhere. The job is to notice them, then dig them out carefully, like fossils.
 - Situation first. Put characters in a predicament; the ending can wait.
@@ -32,6 +32,6 @@ related:
 - Agents are looking for the next hot writer. Be your own advocate.
 - Use the first word that comes to mind. Don't dress up short words.
 - Know grammar's rules before breaking them. Fragments are fine.
-- Active over passive: "The meeting's at seven." The adverb is not your friend.
+- Active over passive: 'The meeting's at seven.' The adverb is not your friend.
 - The paragraph, not the sentence, is the basic unit. Short paragraphs read easy. Same for scripts.
 - Also read: *The Elements of Style*, Strunk and White.

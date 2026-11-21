@@ -142,7 +142,7 @@ a.inline-link:hover, .prose a:hover { color: var(--mid); }
 .letter-list .desc { max-width: 480px; }
 
 .letter-date { color: var(--fade); font-size: 14px; margin-bottom: 32px; }
-.prose h1 { font-family: 'Libre Caslon Display', 'Libre Caslon Text', Georgia, serif; font-size: 36px; font-weight: 400; line-height: 1.15; margin-bottom: 12px; text-wrap: balance; }
+.prose h1 { font-family: 'Libre Caslon Display', 'Libre Caslon Text', Georgia, serif; font-size: 36px; font-weight: 400; line-height: 1.15; margin-bottom: 28px; text-wrap: balance; }
 .prose h2 {
   font-size: 20px;
   font-weight: 700;
@@ -199,7 +199,7 @@ a.inline-link:hover, .prose a:hover { color: var(--mid); }
 }
 
 /* BOOK NOTES */
-.prose li { margin-bottom: 8px; }
+.prose li { margin-bottom: 12px; }
 .prose .foot { font-size: 14px; color: var(--mid); margin-top: 40px; }
 
 /* The "Pop!" in the homepage's opening lines pops in once, shortly after the page loads. */
